@@ -200,7 +200,7 @@ import {
     {
       name: "Disney+ Clone",
       description:
-        "Front-end of a clone of a popular streaming service",
+        "Front-end of a clone of a popular streaming service, with movie details page and complete login and logout functionality. Used Google firebase to create database for movies and enable google authenticaiton for login.",
       tags: [
         {
           name: "react",
