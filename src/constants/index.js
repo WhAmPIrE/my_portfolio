@@ -198,16 +198,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Disney+ Clone",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Front-end of a clone of a popular streaming service",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "firebase",
           color: "green-text-gradient",
         },
         {
@@ -216,7 +216,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/its-rishabh/disneyplus_clone",
     },
     {
       name: "Job IT",
