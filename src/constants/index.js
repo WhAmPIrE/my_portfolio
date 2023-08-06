@@ -240,9 +240,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Netflix Clone",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Front-end of a clone of a popular streaming service. Using API from TMDB to update the databse in realtime.",
       tags: [
         {
           name: "nextjs",
@@ -258,7 +258,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/its-rishabh/net-clone",
     },
   ];
   
